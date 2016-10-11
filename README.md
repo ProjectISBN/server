@@ -1,4 +1,20 @@
-## Synopsis - Dette er en overskrift i ny branch - Test Aleksander
+## Installation
+
+Følg denne guide:
+https://www.jetbrains.com/help/idea/2016.2/cloning-a-repository-from-github.html
+
+## Git Rules
+
+* **Aldrig push til masterbranch medmindre programmet virker og er godkendt af releasemanageren**
+* Gør brug af **branches** til at kode og teste uden at påvirke masterbranch. **Mere om git og branches:** https://www.jetbrains.com/help/idea/2016.2/managing-branches.html
+* Ved **conflicts** f.eks. 2 personer har ændret i samme dokument, find den anden person og bliv enig om hvad som skal beholdes. 
+* Ved oprettelse af nye branches kald da den nye branch dit navn. 
+* Brug funktionen **"Issues"** til at oprette og løse problemer/bugs. 
+
+
+
+
+## Synopsis
 
 At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
@@ -9,10 +25,6 @@ Show what the library does as concisely as possible, developers should be able t
 ## Motivation
 
 A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
-
-## Installation
-
-Provide code examples and explanations of how to get the project.
 
 ## API Reference
 
