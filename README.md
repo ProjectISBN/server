@@ -1,5 +1,5 @@
 
-Jatak
+/nikolajtest
 ## Installation
 
 Følg denne guide:
