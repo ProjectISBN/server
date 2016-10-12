@@ -12,6 +12,10 @@ https://www.jetbrains.com/help/idea/2016.2/cloning-a-repository-from-github.html
 * Ved **conflicts** f.eks. 2 personer har ændret i samme dokument, find den anden person og bliv enig om hvad som skal beholdes. 
 * Ved oprettelse af nye branches kald da den nye branch dit navn. 
 * Brug funktionen **"Issues"** til at oprette og løse problemer/bugs. hejhejehjehejasdad
+* Hej, mit navn er Falken AKA Hawk-Man 8-D
+
+
+
 
 
 /KAKMADDAFUCKER
