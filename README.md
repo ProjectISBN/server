@@ -11,7 +11,7 @@ https://www.jetbrains.com/help/idea/2016.2/cloning-a-repository-from-github.html
 * Gør brug af **branches** til at kode og teste uden at påvirke masterbranch. **Mere om git og branches:** https://www.jetbrains.com/help/idea/2016.2/managing-branches.html
 * Ved **conflicts** f.eks. 2 personer har ændret i samme dokument, find den anden person og bliv enig om hvad som skal beholdes. 
 * Ved oprettelse af nye branches kald da den nye branch dit navn. 
-* Brug funktionen **"Issues"** til at oprette og løse problemer/bugs. 
+* Brug funktionen **"Issues"** til at oprette og løse problemer/bugs. hejhejehjehejasdad
 
 
 /KAKMADDAFUCKER
