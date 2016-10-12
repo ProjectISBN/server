@@ -15,7 +15,11 @@ https://www.jetbrains.com/help/idea/2016.2/cloning-a-repository-from-github.html
 
 
 /KAKMADDAFUCKER
+<<<<<<< Updated upstream
 /MortenTest
+=======
+/GCUKAGUKAGFUK
+>>>>>>> Stashed changes
 
 ## Synopsis
 
@@ -45,4 +49,9 @@ Let people know how they can dive into the project, include important links to t
 
 A short snippet describing the license (MIT, Apache, etc.)
 
+<<<<<<< Updated upstream
 Hej
+=======
+
+Peter
+>>>>>>> Stashed changes
