@@ -13,6 +13,7 @@ https://www.jetbrains.com/help/idea/2016.2/cloning-a-repository-from-github.html
 
 
 /KAKMADDAFUCKER
+/MortenTest
 
 ## Synopsis
 
