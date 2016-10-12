@@ -1,5 +1,5 @@
 
-ja
+Jatak
 ## Installation
 
 Følg denne guide:
