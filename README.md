@@ -1,5 +1,4 @@
-
-/nikolajtest
+/falktest
 ## Installation
 
 Følg denne guide:
